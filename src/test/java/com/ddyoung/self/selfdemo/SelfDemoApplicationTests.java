@@ -1,4 +1,4 @@
-package com.ddyoung.self.selfdomo;
+package com.ddyoung.self.selfdemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SelfDomoApplicationTests {
+public class SelfDemoApplicationTests {
 
 	@Test
 	public void contextLoads() {

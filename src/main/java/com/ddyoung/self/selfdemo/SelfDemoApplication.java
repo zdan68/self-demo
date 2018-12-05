@@ -1,12 +1,12 @@
-package com.ddyoung.self.selfdomo;
+package com.ddyoung.self.selfdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SelfDomoApplication {
+public class SelfDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SelfDomoApplication.class, args);
+		SpringApplication.run(SelfDemoApplication.class, args);
 	}
 }
